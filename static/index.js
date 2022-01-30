@@ -13,7 +13,7 @@ let hide = false;
 let __Time = 20;
 let __k = 4;
 let uppic = false;
-var url = 'https://cjj-jpg.github.io/eatyami/static/image/ClickBefore.png';
+var url = 'https://gytxtx.github.io/eatyami/static/image/ClickBefore.png';
 
 function isplaying() {
     return document.getElementById('welcome').style.display == 'none' &&
