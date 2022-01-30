@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://gytxtx.github.io/eatyami"><img src="https://github.com/gytxtx/Eatyami//static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://gytxtx.github.io/eatyami"><img src="https://github.com/gytxtx/eatyami/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
-# EatKano
+# eatyami
 
 
 </div>
