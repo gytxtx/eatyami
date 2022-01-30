@@ -23,7 +23,7 @@
 
 点下star吧~ 欢迎pr代码
 
-原仓库地址:https://github.com/gytxtx/EatKano/
+原仓库地址:https://github.com/arcxingye/EatKano/
 
 此仓库地址:https://github.com/gytxtx/eatyami/
 
